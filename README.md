@@ -1,5 +1,5 @@
 # BasicAPI-101
-สอนสร้าง RESTful API แบบง่ายด้วย Express.js และ MongoDB
+สอนสร้าง RESTful API แบบง่ายด้วย Node.js, Express.js และ MongoDB
 
 ## Getting Started
 

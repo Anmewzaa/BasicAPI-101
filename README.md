@@ -9,7 +9,7 @@
 ```sh
 git clone https://github.com/Anmewzaa/BasicAPI-101.git
 ```
-2) เปิด terminal เเล้วใช้คำสั่งแล้วติดตั้ง dependencies
+2) เปิด terminal แล้วใช้คำสั่งเพื่อติดตั้ง dependencies ต่างๆ
 ```sh
 npm i
 ```
